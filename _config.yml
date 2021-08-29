@@ -1,6 +1,4 @@
-title: "Remote theme example"
+title: "SeedMint"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-search_enabled: false
-
-theme: jekyll-theme-minimal
+search_enabled: true
