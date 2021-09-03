@@ -57,7 +57,5 @@ Parts to buy: (just paste the description into a search engine to find local sou
       <td>1 set</td>
       <td>letter punches 2mm</td>
     </tr>
-  </tbody>
-</table>
 
 
