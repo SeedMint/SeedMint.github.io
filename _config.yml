@@ -1,6 +1,6 @@
 title: "SeedMint"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "light"
+color_scheme: "dark"
 search_enabled: true
 
 theme: jekyll-theme-minimal
