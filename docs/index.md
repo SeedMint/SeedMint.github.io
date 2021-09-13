@@ -58,4 +58,13 @@ Parts to buy: (just paste the description into a search engine to find local sou
       <td>letter punches 2mm</td>
     </tr>
 
+    
+    <form method="POST" action="https://192.168.0.10:23001/apps/2Rb4d2MsZZAr21LxW2BXqTPuugnh/pos">
+  <input type="hidden" name="amount" value="100" />
+  <input type="hidden" name="email" value="customer@example.com" />
+  <input type="hidden" name="orderId" value="CustomOrderId" />
+  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
+  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
+  <button type="submit">Buy now</button>
+</form>
 
