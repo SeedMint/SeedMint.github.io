@@ -8,7 +8,7 @@ I'll be working on this site as my understanding grows and I find the time neede
 Feel free to reach out if you can help or need any additional information for making or sourcing a SeedMint yourself.
 Also if meanwhile somebody wants to take the design and bring it to market I'll help where I can
 
-[DONATE](https://btcpay525356.lndyn.com/apps/4GYmbQSiyjLKcgHjQupG7siAwfGU/pos)
+[DONATE](https://btcpay.seedmint21.com/apps/3T8pC9bnwwymTxx4zB7akkAiFkyJ/pos)
 
 Parts to buy: (just paste the description into a search engine to find local sources)
 
